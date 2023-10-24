@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 36px;
+    margin: 20px 0;
+  }
+  
+  img {
+    width: 30%;
+    height: 30%;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6f61;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 20px 0;
+  }
+  
+  a:hover {
+    background-color: #ff4d39;
+  }
+  
+  /* Custom style for your greeting */
+  #special-greeting {
+    color: #ff6f61;
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  

@@ -1,0 +1,38 @@
+/* Clicked Page Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #ff6f61;
+    font-size: 36px;
+    margin: 20px 0;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Custom style for your love message */
+  #love-message {
+    color: black;
+    font-size: 48px;
+    font-weight: 800;
+    margin: 10px 0;
+  }
+  
+  /* Custom style for your image */
+  #love-image {
+    width: 50%;
+    height: 50%;
+    border: 2px solid navy;
+    border-radius: 10px;
+    margin: 20px auto;
+  }
+  
